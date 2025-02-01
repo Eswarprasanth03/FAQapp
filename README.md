@@ -99,9 +99,12 @@ A Aplication built with Node.js, Express, MongoDB and Redis. The system includes
 
 ---
 
-## Testing
 
-To run the tests for the project:
 
-```bash
-npm test
+## Demo  
+You can access the live demo of the FAQapp API here:  
+[FAQapp Demo](https://faqapp.onrender.com/api/faqs/)  
+to get particular language 
+[FAQapp Demo](https://faqapp.onrender.com/api/faqs/?lang=hi)  
+in place of "hi" you can keep your preferred language short form
+
